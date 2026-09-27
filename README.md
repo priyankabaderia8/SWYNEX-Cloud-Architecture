@@ -18,3 +18,23 @@ User -> Frontend (Vercel / AWS Amplify) -> API Gateway -> Backend (AWS Lambda) -
 
 ## Diagram
 ![Architecture](cloud-architecture.png)
+
+## 🚀 Tech Stack
+- **Frontend:** React.js, Tailwind CSS (Hosted on Vercel)
+- **Backend:** Node.js, AWS Lambda, API Gateway
+- **Database:** AWS RDS & DynamoDB
+- **Storage:** AWS S3
+- **Monitoring:** AWS CloudWatch
+
+## 💡 Key Features
+- Scalable Serverless Architecture
+- Highly Available & Cost Optimized
+- Secure with HTTPS & Auth
+
+## 🔮 Future Scope
+- Add CDN with CloudFront for faster delivery
+- Implement CI/CD with GitHub Actions
+- Add Auto Scaling for Lambda
+
+---
+Made with ❤️ for SWYNEX by Priyanka
