@@ -17,9 +17,9 @@ user -> Frontend -> AOI Gateway -> Backend -> Database -> Response to User
 -HTTPS, Authentication 
 -CloudWatch for logs and Monitoring 
 
+
 # SWYNEX - Cloud Architecture Document
 
-**GitHub URL:** https://github.com/priyankabaderia8/SWYNEX-Cloud-Architecture
 
 ## 1. Compute (Processing Power)
 The compute layer handles all the business logic.
